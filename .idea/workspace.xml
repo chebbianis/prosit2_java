@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a403e959-b030-4c73-b607-9432a51eb6d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prosit2Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Employe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/SocieteArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/IGestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Departement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/DepartementHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/IDepartement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/IGestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/IGestion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +28,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2YSfHHELQ0lJtSa4gPX4lpJYm6f" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,6 +49,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "copyright",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,7 +62,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700523811291</updated>
-      <workItem from="1700523812300" duration="3307000" />
+      <workItem from="1700523812300" duration="4529000" />
+      <workItem from="1700579846334" duration="601000" />
+      <workItem from="1701091880764" duration="674000" />
+      <workItem from="1701887318618" duration="2523000" />
     </task>
     <servers />
   </component>
